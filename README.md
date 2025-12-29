@@ -6,7 +6,7 @@ I'm an aspiring full-stack developer with a strong focus on **Python** backend d
 
 - 🔭 I’m currently working on building **FastAPI** applications and data analysis projects.
 - 🌱 I’m constantly learning and expanding my knowledge, with a current focus on **Python**, **SQL**, and **Backend Development**.
-- 📫 You can reach me at: [uygrgrmz@gmail.com](mailto:uygrgrmz@gmail.com)
+- 📫 You can reach me at: [oguzzakg@gmail.com](mailto:oguzzakg@gmail.com)
 
 ## Technologies I Use
 
