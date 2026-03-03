@@ -22,7 +22,7 @@ I love turning raw data into meaningful insights, building scalable systems, and
 | | |
 |---|---|
 | 🔭 **Currently building** | AI-powered Real Estate Prediction & Hardware Trackers |
-| 🌱 **Learning** | Deep Learning |
+| 🌱 **Learning** | Deep Learning & Docker |
 | 💡 **Interests** | Clean Code, Data Storytelling, System Automation |
 | 📫 **Contact** | oguzzakg@gmail.com |
 
@@ -53,8 +53,8 @@ I love turning raw data into meaningful insights, building scalable systems, and
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### Currently Learning 🌱
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep--Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
