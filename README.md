@@ -21,9 +21,9 @@ I love turning raw data into meaningful insights, building scalable systems, and
 
 | | |
 |---|---|
-| 🔭 **Currently building** | ML-powered apps & data analysis pipelines |
-| 🌱 **Learning** | React, Selenium, n8n & advanced ML |
-| 💡 **Interests** | Clean code, data storytelling, automation |
+| 🔭 **Currently building** | AI-powered Real Estate Prediction & Hardware Trackers |
+| 🌱 **Learning** | React & Deep Learning |
+| 💡 **Interests** | Clean Code, Data Storytelling, System Automation |
 | 📫 **Contact** | oguzzakg@gmail.com |
 
 ---
@@ -43,6 +43,7 @@ I love turning raw data into meaningful insights, building scalable systems, and
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-7db9b3?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### Tools & Databases
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -54,7 +55,6 @@ I love turning raw data into meaningful insights, building scalable systems, and
 ### Currently Learning 🌱
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
@@ -65,9 +65,9 @@ I love turning raw data into meaningful insights, building scalable systems, and
 <tr>
 <td width="50%">
 
-### 📈 [Borsa Analizi](https://github.com/oguzzakgl/PythonLib/tree/main/Portfolio/10_Borsa_Analizi)
-Stock market analysis & ML prediction for BIST and US markets.  
-`Python` `Scikit-Learn` `Streamlit` `yfinance`
+### 🖥️ [Hardware Tracker](https://github.com/oguzzakgl/hardwareTracker)
+Amazon price scraper & analyzer for PC components.  
+`Python` `Selenium` `Pandas` `SQLite`
 
 </td>
 <td width="50%">
@@ -81,16 +81,16 @@ AI-powered real estate price prediction app with Streamlit UI.
 <tr>
 <td width="50%">
 
-### 💰 [Finance Dashboard](https://github.com/oguzzakgl/financeDashboard)
-Full-stack income & expense tracker with dynamic charts.  
-`FastAPI` `React` `SQLite` `Matplotlib`
+### 📈 [Borsa Analizi](https://github.com/oguzzakgl/PythonLib/tree/main/Portfolio/10_Borsa_Analizi)
+Stock market analysis & ML prediction for BIST and US markets.  
+`Python` `Scikit-Learn` `Streamlit` `yfinance`
 
 </td>
 <td width="50%">
 
-### 👥 [İK Analitiği](https://github.com/oguzzakgl/PythonLib/tree/main/Portfolio/07_HR_Analysis_Advanced)
-HR analytics with employee attrition prediction & KPIs.  
-`Python` `Pandas` `Seaborn` `Scikit-Learn`
+### 💰 [Finance Dashboard](https://github.com/oguzzakgl/financeDashboard)
+Full-stack income & expense tracker with dynamic charts.  
+`FastAPI` `React` `SQLite` `Matplotlib`
 
 </td>
 </tr>
