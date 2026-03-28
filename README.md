@@ -100,3 +100,13 @@ Stock market analysis & ML prediction for BIST and US markets.
   <img src="https://github-readme-stats.vercel.app/api?username=oguzzakgl&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzzakgl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzzakgl&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oguzzakgl&color=4FC3F7&style=for-the-badge&label=Profile+Views" />
+</p>
